@@ -108,3 +108,20 @@ p + p {
     padding: 0px 20px;
     margin: 0px auto;        
 }
+
+.emoji {
+    display: inline;
+    border: none;
+    box-shadow: none;
+    height: 1em;
+    width: 1em;
+    margin: 0 .07em;
+    vertical-align: -0.1em;
+    background: none;
+    padding: 0;    
+}
+
+.copyright {
+    padding: 80px 0 28px 0;
+    text-align: center;
+}
