@@ -2,7 +2,7 @@
 Programming Resources for Engineering Students/Alumni
 =====================================================
 
-Programming is intimidating but it does not to be. If you know where to start and what concepts to learn first, you can be programmer in an enjoyful path. This guide is open to contribution. If you have any resource recommandation send a pull request via [github](https://github.com/ahmetbersoz/programming-for-engineers).
+Programming is intimidating but it does not to be. If you know where to start and what concepts to learn first, you can be programmer in an enjoyful path. This guide is open to contribution. If you have any resource recommandation send a pull request.
 
 A. FUNDAMENTALS
 ===============
@@ -100,5 +100,3 @@ Andrew Ng's deep learning zero to hero course series are highly suggested under 
 ### 6. Deep Learning for Computer Vision
 
 [CS231n](http://cs231n.stanford.edu/) is one of fundamental courses of computer vision at Stanford University. I suggest [Winter 2016 semester lectures](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) in which NN parts were given by [Andrej Karpathy](https://karpathy.ai/). Lecture notes and assignments are available [here](https://github.com/maxim5/cs231n-2016-winter).
-
-Grouped by [ABE](https://www.ahmetersoz.com/)
