@@ -71,7 +71,7 @@ The best way of learning a CSS framework is use it your own project. Find the be
 
 Creating 3D views in a browser makes you amazing. If you need such a visualization, it has a minimalist [docs](https://threejs.org/docs/).
 
-E. MACHINE LEARNING
+D. MACHINE LEARNING
 ===================
 
 Whether you want to be a machine learning engineer or not, you should have a fundalmental knowledge.
