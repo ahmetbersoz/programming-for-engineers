@@ -43,8 +43,7 @@ The most used language in universities. But it's not free, hope your university 
 
 ### 2. Python
 
-Python is the best language to start with for programming since it has an easy syntax. It's free and scalable. There is an [Introduction to Programming](https://link.springer.com/book/10.1007/978-3-7091-1343-1) book.
-
+Python is the best language to start with for programming since it has an easy syntax. It's free and scalable. There is an [Introduction to Programming](https://link.springer.com/book/10.1007/978-3-7091-1343-1) book. Arindam Dawn's [30 Days of Python](https://dev.to/arindamdawn/series/7425) Series helps you to learn Python in one month.
 
 
 C. WEB
@@ -58,7 +57,7 @@ Learning this couple is like learning the alphabets of web programming. Codeacad
 
 ### 2. Javascript
 
-If you learn JS and love it, you become unstoppable. Instead of millions of free JS courses, start with a cheap but [qualifed Udemy course](https://www.udemy.com/course/the-complete-javascript-course/). Once you know the basics of JS, [Just Javascript](https://justjavascript.com/) helps you build the mental model of how JavaScript works.
+If you learn JS and love it, you become unstoppable. Instead of millions of free JS courses, start with a cheap but [qualifed Udemy course](https://www.udemy.com/course/the-complete-javascript-course/). Once you know the basics of JS, [Just Javascript](https://justjavascript.com/) helps you build the mental model of how JavaScript works. This guide perfectly summarizes how to write [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ### 3. NodeJS & Express
 
