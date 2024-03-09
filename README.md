@@ -26,11 +26,6 @@ Having a version control system makes your life easier. [Github's offical](https
 
 You are not alone. [Watch the story](https://www.youtube.com/watch?v=IGOmyRZoUSs) of one of our friends' presentations. (Turkish)
 
-### 5. Which path?
-
-If you are not sure which path to follow, Web, ML, etc. You may take [this survey](https://bit.ly/hangipatika) and see results. (Turkish)
-
-
 
 B. SCIENTIFIC COMPUTING
 =======================
